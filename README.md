@@ -1,13 +1,44 @@
-- 👋 Hi, I’m **Sania Irshad**
-- 👀 I’m interested in **Coding** and **Web development**
-- 🌱 I’m currently learning **OOP**
-- 
-- 💞️ I’m looking to collaborate on **Web development team** ,**Coding** and **Programming**
-- 📫 How to reach me **saniairshad110@gmail.com**
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I enjoy solving puzzles in my free time 
+# 👋 Hi there, I'm Sania! 🚀
 
-<!---
-Sania1125/Sania1125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 About Me
+- 💻 I’m a passionate **Python Developer** and an active member of the **GitHub Developer Program**.
+- 🎯 Currently working on **API projects**, **automation**, and **AI-based tools**.
+- 🌱 Always learning new technologies and improving coding skills!
+- ✨ Open to collaborations, learning, and building amazing open-source projects.
+
+---
+
+### 🛠️ Technologies & Tools
+
+- Python 🐍
+- Git & GitHub 🔥
+- REST APIs 🌐
+- Codespaces 🖥️
+- Project Management Tools 📚
+
+---
+
+### 📈 GitHub Stats
+
+![Sania's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sania1125&show_icons=true&theme=radical)
+
+---
+
+### 📌 Pinned Projects
+
+- 🎯 [AI Exam Generator](#)  
+- 🛒 [Simple E-commerce System](#)  
+- 📦 [delish-bites-restaurant](#)
+-    [Google_signin_-pg -clone](#)
+*(Links will automatically work when you pin the repositories.)*
+
+---
+
+### 📬 How to Reach Me
+
+- 📧 Email: saniairshad110@gmail.com
+
+
+---
+
+> ✨ *"Building small, dreaming big!"* ✨
